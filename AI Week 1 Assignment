@@ -1,0 +1,34 @@
+Week 1 Assignment 
+TASK 1
+Q1. Explain Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and AI Agent in your own words.
+ANS: 1. Artificial Intelligence: It is like human intelligence, it is capable of learning, reasoning and applying knowledge across various domains. It also recognizes errors and solves it.
+2. Machine Learning: ML is a system which learns patterns from data individually and classify new info and make predictions. It is a subfield of AI. (ANN)
+3. Deep Learning: It is similar to ML but complex. It uses hierarchical approach. It uses multilayered neural networks 
+4. Gen AI: It creates new content like AI videos, images based on prompts. Also known as creative AI.
+5. AI agent: It is like an organized worker, it decides tasks, tools and interacts with humans as well as other AI agents. It is useful for automation as it requires less/no human interaction.
+
+TASK 2
+Artificial Intelligence
+              ↓
+Machine Learning
+              ↓ 
+Deep Learning
+              ↓
+         Gen AI
+NOTE: I am not sure where AI agents are supposed to be placed as the LLMs comes into picture. The LLM functions like a brain and the AI agent is the organized worker. The only thing I know is that LLM comes under Gen AI.
+            
+TASK 3
+Examples
+AI: Ghost behavior in Pac Man. They just run around to kill you like it’s their ultimate goal. They don’t learn anything from the players moving pattern.
+ML:  email spam folder
+DL: face unlock of phone
+GenAI: image generators like gemini or chatgpt
+AI Agents: Automated travel assistant who can book entire trip
+TASK 4
+Source
+1.	Exploring Generative Artificial Intelligence (GenAI) and AI Agents in Research and Teaching – Concepts and Practical Cases. [Jussi S. Jauhiainen & Aurora Toppari]
+2.	Artificial Intelligence: a comprehensive introduction (AI/ML, Gen AI and Agentic AI) [Rajendra M Sonar, Ph.D]
+TASK 5
+I read some parts of both the research paper and I have written the answers.
+
+Ill be doing the remaining questions slowly as the topic is being taught.
